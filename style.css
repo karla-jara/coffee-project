@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.coffee-slow{
+    height: 100%;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+    z-index: -15;
+    /*align-content: flex-start;*/
+}
+
+body{
+    color: blanchedalmond;
+}
+
+body h3{
+    text-align: center;
+    padding: 15px;
+}
+
+nav.navbar.navbar-expand-md.flex-sm-column{
+    color: #45170a;
+}
